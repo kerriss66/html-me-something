@@ -1,9 +1,0 @@
-body { background-color: rgb(197, 165, 165); }
-
-h1 {color: rgb(91, 45, 218); 
-  font-size: 150%;
-  font-family: 'Satisfy', cursive;
-  margin: 5em 25%;text-align: center;}
-
-p::first-line {letter-spacing: 2px;
-  word-spacing: 4px;}
